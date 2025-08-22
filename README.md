@@ -20,6 +20,8 @@ Soy un apasionado por la tecnología con conocimientos en desarrollo web y admin
 - 💼 LinkedIn: [Edwin Fernando Aldana](https://www.linkedin.com/in/edwin-fernando-aldana-abril-b2470634)
 - 🌐 Portafolio: _(En Construcción)_
 
+
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=DevEdwin_Aldana%20🐍&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 ---
 
 ## 📚 Recursos
